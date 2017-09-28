@@ -25,7 +25,7 @@ SECRET_KEY = '#jepura*udhfdh)3z8n174-03d)jss)4wzgz3=3oey=aogdyg0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [127.0.0.1]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
